@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashmittal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Yashmittal4/Yashmittal4/main/full-stack-banner.webp" style="height:2vh width:100%" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/yashmittal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Yashmittal4/Yashmittal4/main/full-stack-banner.webp" style="height:2vh ,width:100%" alt="my banner"></a>
 </p>
 
 <h3 align="center">
