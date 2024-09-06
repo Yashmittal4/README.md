@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yash Mittal</a> 👋
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer" style="font-size:2vw">Yash Mittal</a> 👋
 </h3>
 
 <h2 align="center">
@@ -29,7 +29,6 @@ I’m a passionate developer with a knack for crafting robust, scalable web solu
 - Advanced AI/ML techniques
 - Enhancing full-stack development with performance optimization
 
-- 
 
 ## 💼 Technical Skills
 
