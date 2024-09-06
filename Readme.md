@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
+Full Stack Web Developer 💻 | AI/ML Enthusiast 🤖!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I’m a passionate developer with a knack for crafting robust, scalable web solutions. My expertise ranges from full-stack development to AI/ML innovations. I love creating efficient applications that improve user experience, all while pushing the boundaries of technology.
 
 ### 🤝 Connect with me:
 
@@ -21,11 +21,13 @@ I love the entire process of developing creative websites. I love the challenge 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-
-- poke-finder project
-- anime project
+- **Tune Unity** - A music collaboration platform connecting musicians globally.
+- **UCampus+** - An enhanced platform for campus dining and food blogging.
+- **AI/ML Models** - Various projects focused on machine learning and automation.
 
 ## 🌱 I'm currently learning
+- Advanced AI/ML techniques
+- Enhancing full-stack development with performance optimization
 
 - 
 
@@ -56,16 +58,24 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📝 Latest Blog Posts
+## 🚀 Projects
 
-- [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- **Tune Unity**  
+  A dynamic platform that brings musicians together, allowing them to collaborate seamlessly and create music globally.
+
+- **UCampus+**  
+  Elevating campus dining with a diverse food ordering system, community-building features, and a food blogging section.
+
+- **Real Face Note**  
+  A sophisticated note-taking platform that simplifies project management and enhances workflow efficiency.
+
+- **Freelancer Betting Website**  
+  Delivered custom betting experiences through a tailored website, built for engagement and interaction.
+
+---
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashmittal&show_icons=true&theme=radical)](https://github.com/yashmittal)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yashmittal.yashmittal)](https://github.com/yashmittal)
