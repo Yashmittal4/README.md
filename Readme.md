@@ -2,8 +2,8 @@
   <a href="https://www.linkedin.com/in/yashmittal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Yashmittal4/Yashmittal4/main/full-stack-banner.webp"  height='420vh'  alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer" style="font-size:4vw">Yash Mittal</a> 👋
+<h2 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer" >Yash Mittal</a> 👋
 </h3>
 
 <h2 align="center">
